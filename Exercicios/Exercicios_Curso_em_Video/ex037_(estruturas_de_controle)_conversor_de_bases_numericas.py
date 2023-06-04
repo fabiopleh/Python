@@ -1,9 +1,11 @@
-# Convertendo Bases Numéricas.
+# Conversor de Bases Numéricas.
+
 num = int(input('Digite um Número Inteiro: '))
-print('Para altura Base de Conversão:\n'
-'[ 1 ] - Binário\n'
-'[ 2 ] - Octual\n'
-'[ 3 ] - Hexadecimal')
+print('Para a Base de Conversão:\n'
+      '[ 1 ] - Binário\n'
+      '[ 2 ] - Octual\n'
+      '[ 3 ] - Hexadecimal')
+
 op = int(input('Digite sua Opção: '))
 
 if op == 1:

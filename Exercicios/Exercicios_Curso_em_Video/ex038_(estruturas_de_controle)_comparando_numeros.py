@@ -1,4 +1,5 @@
-# Verifica qual Número e Maior ou se são Igual.
+# Comparando Números.
+
 n1 = int(input('Digite o Primeiro Número: '))
 n2 = int(input('Digite o Segundo Número: '))
 

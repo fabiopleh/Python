@@ -1,4 +1,5 @@
-# Analiza o Maior e o Menor Número.
+# Maior e Menor Valores.
+
 n1 = int(input('Primeiro Valor: '))
 n2 = int(input('Segundo Valor: '))
 n3 = int(input('Terceiro Valor: '))

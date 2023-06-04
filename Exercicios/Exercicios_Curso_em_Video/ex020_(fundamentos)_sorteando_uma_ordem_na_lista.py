@@ -1,4 +1,4 @@
-# Reordenamento Aleatório de uma lista.
+# Sorteando uma Ordem na lista.
 
 from random import shuffle
 

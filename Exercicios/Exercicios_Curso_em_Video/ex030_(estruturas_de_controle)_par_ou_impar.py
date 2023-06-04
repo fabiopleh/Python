@@ -1,5 +1,7 @@
-# Mostra se um Número é Par ou Ímpar.
+# Par ou Ímpar.
+
 num = int(input('Digite um Número: '))
+
 if num % 2 == 0:
     print(f'O Número {num} é PAR.')
 else:
